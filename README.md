@@ -23,7 +23,7 @@ This repo contains the source code used to create the app during the course.
 * Udacity Team
     - [https://github.com/udacity](https://www.udacity.com/course/ios-developer-nanodegree--nd003)
 * Priscilla Cosi
-    - [https://twitter.com/ipriferr](https://twitter.com/priferr)
+    - [https://twitter.com/ipriferr](https://twitter.com/ipriferr)
 
 With the help of:
 
